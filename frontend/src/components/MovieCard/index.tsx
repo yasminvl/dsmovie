@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import MovieScore from "../MovieScore";
 import { Movie } from "types/movie";
 
+
 type Props = {
     movie: Movie;
 }
