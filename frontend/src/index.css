@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap");
 
 :root {
-  --color-primary: #840eabf5;
+  --color-primary: #0a0a0af5;
 }
 
 * {
@@ -11,7 +11,7 @@
 
 html,
 body {
-  background-color: #020202;
+  background-image: url("https://media2.giphy.com/media/U3qYN8S0j3bpK/giphy.gif?cid=ecf05e47i71pyk991adgmmkdu2mqy6leufb1fhxhw30m1tou&rid=giphy.gif&ct=g");
 }
 
 a,
