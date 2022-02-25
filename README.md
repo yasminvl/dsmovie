@@ -1,4 +1,6 @@
-🖥️ Projeto desenvolvido na semana Spring React Devsuperior
+<img src="frontend/src/assets/img/screenshot.png" alt="Screenshot do Projeto em funcionamento">
+
+>🖥️ Projeto desenvolvido na semana Spring React Devsuperior
 
 ## ✏️ Sobre o projeto
 
